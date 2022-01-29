@@ -38,3 +38,4 @@
 /ip firewall address-list add list=rkn address=216.3.18.0/24
 /ip firewall address-list add list=rkn address=216.52.16.0/21
 /ip firewall address-list add list=rkn address=216.52.242.0/24
+/ip firewall address-list add list=rkn address=13.107.42.0/24
